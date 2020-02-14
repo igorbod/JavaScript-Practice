@@ -11,6 +11,8 @@
   color: #fff;
   outline: none;
   cursor: pointer;
+  opacity: 0;
+  transition: 0.75s all;
 }
 
 #btnScrollToTop:active {
